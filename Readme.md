@@ -118,7 +118,7 @@ Bạn có thể chọn một trong hai cách sau:
     * `--config Release`: Build phiên bản tối ưu hóa (optimized). Dùng `--config Debug` nếu bạn cần gỡ lỗi.
 
 * **Cách 2: Dùng Visual Studio IDE:**
-    * Mở tệp `coturn.sln` (nằm trong thư mục `build`) bằng cáchดับเบิลคลิก vào nó.
+    * Mở tệp `coturn.sln` (nằm trong thư mục `build`) bằng cách nhấp đúp chuột vào nó.
     * Trong Visual Studio, chọn cấu hình là `Release` và nền tảng là `x64` (thường ở thanh công cụ phía trên).
     * Trong cửa sổ "Solution Explorer" (thường ở bên phải), tìm đến `ALL_BUILD`, nhấn chuột phải vào đó và chọn `Build`.
 
